@@ -39,10 +39,5 @@ The dataset contains applicant information such as:
 ## Results
 The model successfully predicts credit card approval status with good accuracy and provides probability-based decisions.
 
-## How to Run
-1. Open the notebook `final_credit_card_project.ipynb`
-2. Run all cells sequentially in Google Colab
-3. Ensure the dataset file is available in the working directory
-
 ## Conclusion
 This project demonstrates how machine learning can be applied to real-world financial decision-making problems by automating credit approval predictions efficiently and reliably.
